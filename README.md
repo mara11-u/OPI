@@ -5,3 +5,4 @@ Dmitrievna
 FIT
 Discipline "VPRO"
 Year 1 group 5
+Designer
